@@ -8,5 +8,6 @@ var todolist = {
             todoText: todoText,
             completed: false
         });
+        this.displayTodos();
     }
 }
